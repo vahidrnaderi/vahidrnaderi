@@ -1,8 +1,9 @@
-- 👋 👋 Hi, I'm Vahid Naderi, using the @vahidrnaderi ID. 
-- 👀 I have a keen interest in new technologies and have experience in programming languages such as C++, HTML, CSS, PHP, JavaScript, Python, Flask, Django, and VB.net. I'm also familiar with various operating systems including Windows, Ubuntu, and RancherOS. Additionally, I have networking expertise with Cisco devices and experience in virtualization using tools like VMWare, VirtualBox, and KVM.
-- 💾 In terms of databases, I have worked with Oracle, MySQL, and Microsoft SQL Server.
-- 🌱 Currently, I'm focused on learning DevOps practices, which includes Python, API programming with Flask, REST, Ansible, Docker, and Kubernetes. 
-- 💞 I am actively seeking collaboration opportunities in this field.
+- 👋 Hi, I'm Vahid Naderi, going by the @vahidrnaderi handle.
+
+👀 I possess a profound interest in emerging technologies and wield experience in diverse programming languages, including Python, Flask, Django, PHP, C++, JavaScript, VBA, VB.net, and ASP.net. My frontend proficiency extends to HTML and CSS, while I also hold familiarity with operating systems spanning Windows, Ubuntu, and RancherOS. My networking expertise spans Cisco devices, and I boast experience in virtualization through tools like VMWare, VirtualBox, and KVM.
+💾 My database experience encompasses Oracle, MySQL, Redis, and Microsoft SQL Server.
+🌱 Currently, I'm engrossed in mastering DevOps practices, delving into Python, Microservice programming using Flask, REST API development with Django Rest Framework, and the implementation of tools like Ansible, Docker, and Kubernetes.
+💞 My current pursuit involves seeking active collaboration opportunities within this dynamic realm.
 - 📫 You can reach me via email at vahidrnaderi@gmail.com, or visit my websites: http://vahidacademy.com and http://idealmart.ir.
 - 
 <!---
